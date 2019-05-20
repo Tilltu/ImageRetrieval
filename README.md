@@ -1,14 +1,25 @@
 # Usage
 1.hash_laucher.py
-----
+====
 传统方法的索引
-   
-   
-2.cnn_launcher.py
+
+AHash Result:
 ----
+！[AHash Res]()
+   
+
+
+PHash Result:
+----
+！[PHash Res]()
+
+2.cnn_launcher.py
+====
 CNN方法的索引
 
-
+CNN Result:
+----
+！[CNN Res]()
 
 
 
