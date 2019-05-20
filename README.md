@@ -5,13 +5,13 @@
 
 AHash Result:
 ----
-！[AHash Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/ahash_res.png)
+![AHash Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/ahash_res.png)
    
 
 
 PHash Result:
 ----
-！[PHash Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/phash_res.jpeg)
+![PHash Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/phash_res.jpeg)
 
 2.cnn_launcher.py
 ====
@@ -19,7 +19,7 @@ CNN方法的索引
 
 CNN Result:
 ----
-！[CNN Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/cnn_res.png)
+![CNN Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/cnn_res.png)
 
 
 
