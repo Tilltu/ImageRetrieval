@@ -5,13 +5,13 @@
 
 AHash Result:
 ----
-！[AHash Res]()
+！[AHash Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/ahash_res.png)
    
 
 
 PHash Result:
 ----
-！[PHash Res]()
+！[PHash Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/phash_res.jpeg)
 
 2.cnn_launcher.py
 ====
@@ -19,7 +19,7 @@ CNN方法的索引
 
 CNN Result:
 ----
-！[CNN Res]()
+！[CNN Res](https://github.com/Tilltu/ImageRetrieval/blob/master/result/cnn_res.png)
 
 
 
@@ -32,4 +32,4 @@ CNN Result:
 
 
 # Reference
-https://github.com/willard-yuan/flask-keras-cnn-image-retrieval
+[Use VGG16 Model To Do Image Retrieval](https://github.com/willard-yuan/flask-keras-cnn-image-retrieval)
